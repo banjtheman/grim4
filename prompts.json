@@ -1,0 +1,22 @@
+[{
+        "author": "Greg Isenberg",
+        "source_url": "https://twitter.com/gregisenberg/status/1608470997770043392",
+        "category": "startups",
+        "name": "My framework for finding profitable startup ideas:",
+        "prompt": "My framework for finding profitable startup ideas:\n 1. What's a fast-growing undeserved niche?\n 2. What's a big pain-point for them?\n 3. How do most people solve it?\n 4. Why doesn't it work for them?\n 5. How would I solve it differently?\n 6. How can I build this with 50%+ margins?\n Can you give 3 startup ideas using this framework?"
+    },
+    {
+        "author": "Jane Doe",
+        "source_url": "https://docs.streamlit.io/library/components/components-api",
+        "category": "startups",
+        "name": "Jane Test",
+        "prompt": "Come up with three startup ideas for a subscription-based meal delivery service"
+    },
+    {
+        "author": "James Johnson",
+        "source_url": "https://www.james-johnson.com/prompts/890",
+        "category": "copywriting",
+        "name": "James Test",
+        "prompt": "Write a sales email for a new product launch"
+    }
+]
